@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Python-Skilled-informational?style=flat&logo=python&logoColor=white&color=green)
 ![](https://img.shields.io/badge/ASP.NET-Skilled-informational?style=flat&logo=asp.net&logoColor=white&color=green)
 
-<p align="justify">Creative software engineer with 8 years of experience.</p>
+<p align="justify">Creative software engineer</p>
 
 <p align="justify">As a talented and hardworking developer, I always stick to a result-driven working manner with great attention to detail, periodic thorough code review, and critical thinking. </p>
 
