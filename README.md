@@ -42,7 +42,7 @@ Sincerely,
 ![](https://img.shields.io/badge/Flask-Expert-informational?style=flat&logo=docker&logoColor=white&color=red)
 ![](https://img.shields.io/badge/FastAPI-Expert-informational?style=flat&logo=fastapi&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Blockchain-Expert-informational?style=flat&logo=blockchain&logoColor=white&color=red)
-![](https://img.shields.io/badge/GoogleCloudPlatform-Expert-informational?style=flat&logo=GoogleCloudPlatform&logoColor=white&color=red)
+![](https://img.shields.io/badge/GCP-Expert-informational?style=flat&logo=GCP&logoColor=white&color=red)
 ![](https://img.shields.io/badge/SQLAlchemy-Expert-informational?style=flat&logo=SQLAlchemy&logoColor=white&color=red)
 ![](https://img.shields.io/badge/MongoDB-Expert-informational?style=flat&logo=mongodb&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Redis-Expert-informational?style=flat&logo=redis&logoColor=white&color=red)
