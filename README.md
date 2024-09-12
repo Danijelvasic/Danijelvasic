@@ -2,7 +2,7 @@
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
 
-![](https://img.shields.io/badge/Odoo-Expert-informational?style=flat&logo=react&logoColor=white&color=red)
+![](https://img.shields.io/badge/Odoo-Expert-informational?style=flat&logo=odoo&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Odoo Studio-Expert-informational?style=flat&logo=angular&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Odoo Workflow Engine-informational?style=flat&logo=vue&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Solidity-Expert-informational?style=flat&logo=solidity&logoColor=white&color=red)
