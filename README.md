@@ -15,7 +15,8 @@
 * Skilled in containerized deployments using Docker, managing Linux-based servers, and employing CI/CD practices for streamlined development workflows.
 
 <p align="justify">So, if you’re ready to turn your ERP dreams into reality with a side of Python-powered magic, buckle up and let’s code something awesome together! 🐍💻</p>
-<br>Sincerely,
+
+Sincerely,
 
 ## My Skills
 
