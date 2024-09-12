@@ -24,7 +24,7 @@ Sincerely,
 
 ![](https://img.shields.io/badge/Odoo-Expert-informational?style=flat&logo=odoo&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&logoColor=white&color=red)
-![](https://img.shields.io/badge/Csharp-Expert-informational?style=flat&logo=csharp&logoColor=white&color=red)
+![](https://img.shields.io/badge/CSharp-Expert-informational?style=flat&logo=csharp&logoColor=white&color=red)
 ![](https://img.shields.io/badge/PHP-Expert-informational?style=flat&logo=php&logoColor=white&color=red)
 ![](https://img.shields.io/badge/PostgreSQL-Expert-informational?style=flat&logo=postgresql&logoColor=white&color=red)
 ![](https://img.shields.io/badge/XML-Expert-informational?style=flat&logo=xml&logoColor=white&color=red)
