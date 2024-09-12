@@ -3,19 +3,26 @@
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
 
 ![](https://img.shields.io/badge/Odoo-Expert-informational?style=flat&logo=odoo&logoColor=white&color=red)
-![](https://img.shields.io/badge/Odoo Studio-Expert-informational?style=flat&logo=angular&logoColor=white&color=red)
-![](https://img.shields.io/badge/Odoo Workflow Engine-informational?style=flat&logo=vue&logoColor=white&color=red)
-![](https://img.shields.io/badge/Solidity-Expert-informational?style=flat&logo=solidity&logoColor=white&color=red)
-![](https://img.shields.io/badge/Blockchain-Expert-informational?style=flat&logo=blockchain&logoColor=white&color=red)
-![](https://img.shields.io/badge/Laravel-Expert-informational?style=flat&logo=laravel&logoColor=white&color=red)
-![](https://img.shields.io/badge/NestJS-Expert-informational?style=flat&logo=nestjs&logoColor=white&color=red)
-![](https://img.shields.io/badge/Mysql-Expert-informational?style=flat&logo=Mysql&logoColor=white&color=red)
-![](https://img.shields.io/badge/Git-Expert-informational?style=flat&logo=git&logoColor=white&color=red)
+![](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&logoColor=white&color=red)
 ![](https://img.shields.io/badge/PostgreSQL-Expert-informational?style=flat&logo=postgresql&logoColor=white&color=red)
-
-![](https://img.shields.io/badge/Rust-Experienced-informational?style=flat&logo=rust&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Python-Skilled-informational?style=flat&logo=python&logoColor=white&color=green)
-![](https://img.shields.io/badge/ASP.NET-Skilled-informational?style=flat&logo=asp.net&logoColor=white&color=green)
+![](https://img.shields.io/badge/XML-Expert-informational?style=flat&logo=xml&logoColor=white&color=red)
+![](https://img.shields.io/badge/API-Expert-informational?style=flat&logo=API&logoColor=white&color=red)
+![](https://img.shields.io/badge/HTML5-Expert-informational?style=flat&logo=HTML5&logoColor=white&color=red)
+![](https://img.shields.io/badge/CSS3-Expert-informational?style=flat&logo=CSS3&logoColor=white&color=red)
+![](https://img.shields.io/badge/JS-Expert-informational?style=flat&logo=JS&logoColor=white&color=red)
+![](https://img.shields.io/badge/Docker-Expert-informational?style=flat&logo=Docker&logoColor=white&color=red)
+![](https://img.shields.io/badge/Nginx-Expert-informational?style=flat&logo=Nginx&logoColor=white&color=red)
+![](https://img.shields.io/badge/Flask-Expert-informational?style=flat&logo=docker&logoColor=white&color=red)
+![](https://img.shields.io/badge/FastAPI-Expert-informational?style=flat&logo=fastapi&logoColor=white&color=red)
+![](https://img.shields.io/badge/SQLAlchemy-Expert-informational?style=flat&logo=SQLAlchemy&logoColor=white&color=red)
+![](https://img.shields.io/badge/MongoDB-Expert-informational?style=flat&logo=mongodb&logoColor=white&color=red)
+![](https://img.shields.io/badge/Redis-Expert-informational?style=flat&logo=redis&logoColor=white&color=red)
+![](https://img.shields.io/badge/GraphQL-Expert-informational?style=flat&logo=graphql&logoColor=white&color=red)
+![](https://img.shields.io/badge/OAuth2-Expert-informational?style=flat&logo=OAuth2&logoColor=white&color=red)
+![](https://img.shields.io/badge/PyTest-Expert-informational?style=flat&logo=PyTest&logoColor=white&color=red)
+![](https://img.shields.io/badge/Postman-Expert-informational?style=flat&logo=Postman&logoColor=white&color=red)
+![](https://img.shields.io/badge/Kubernetes-Expert-informational?style=flat&logo=Kubernetes&logoColor=white&color=red)
+![](https://img.shields.io/badge/Git-Expert-informational?style=flat&logo=git&logoColor=white&color=red)
 
 <p align="justify">Hi, I'm a professional Odoo Developer and Python Backend Developer with extensive experience in building and customizing Odoo ERP systems and developing robust backend solutions using Python. My expertise includes:
 </p>
