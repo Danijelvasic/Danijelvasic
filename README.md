@@ -17,17 +17,16 @@
 ![](https://img.shields.io/badge/Python-Skilled-informational?style=flat&logo=python&logoColor=white&color=green)
 ![](https://img.shields.io/badge/ASP.NET-Skilled-informational?style=flat&logo=asp.net&logoColor=white&color=green)
 
-<p align="justify">Creative software engineer</p>
+<p align="justify">Hi, I'm a professional Odoo Developer and Python Backend Developer with extensive experience in building and customizing Odoo ERP systems and developing robust backend solutions using Python. My expertise includes:
+</p>
 
-<p align="justify">As a talented and hardworking developer, I always stick to a result-driven working manner with great attention to detail, periodic thorough code review, and critical thinking. </p>
+* Developing customized Accounting & Finance ERP systems using Odoo’s modular architecture, including the Accounting, Sales, and Inventory modules.
+* Leveraging Python for complex backend logic, API integrations, and automation.
+* Proficient in PostgreSQL, API development (REST & XML-RPC), and implementing secure and scalable solutions using frameworks like Flask and Django.
+* Skilled in containerized deployments using Docker, managing Linux-based servers, and employing CI/CD practices for streamlined development workflows.
 
-<p align="justify">As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.</p>
-
-<p align="justify">Also, I'm familiar with several kinds of testing systems.
-I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable.</p>
-
-<p align="justify">The best quality, accurate timeline, free and polite after-service are what I guarantee to my clients.
-
+<p align="justify">I’m passionate about delivering high-quality, scalable solutions tailored to client needs, from ERP customization to full-stack development.</p>
+<p align="justify">Feel free to explore my repositories and reach out for collaboration!
 Sincerely,</p>
 
 ## My Skills
