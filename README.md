@@ -1,4 +1,4 @@
-# Danijelvasic Dev Star
+# Cosmos Dev Star
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
 
